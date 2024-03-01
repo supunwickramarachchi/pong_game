@@ -29,7 +29,7 @@ Welcome to the Pong Game! This is a classic arcade-style game where two players 
 4. The game ends when one player reaches the set number of points.
 
 ## Screenshots
-Include screenshots of your game here to showcase the gameplay and features.
+![Pong Gameplay Screenshot](screenshots/gameplay.png)
 
 ## Credits
 - Developed by [Supun Wickramarachchi](https://github.com/supunwickramarachchi).
